@@ -1,0 +1,22 @@
+{
+  "name": "json-data",
+  "version": "1.0.0",
+  "description": "Inside this folder I will create some json data to use in the project",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Najmul-Hasan-Sobuj/JSON_Data.git"
+  },
+  "author": "MD.Najmul Hasan",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Najmul-Hasan-Sobuj/JSON_Data/issues"
+  },
+  "homepage": "https://github.com/Najmul-Hasan-Sobuj/JSON_Data#readme",
+  "dependencies": {
+    "json-server": "^0.17.0"
+  }
+}
