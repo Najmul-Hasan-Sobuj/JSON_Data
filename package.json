@@ -4,7 +4,7 @@
   "description": "Inside this folder I will create some json data to use in the project",
   "main": "index.js",
   "scripts": {
-    "test": "echo \"Error: no test specified\" && exit 1"
+    "json-data": "json-server --watch data.json --port 3000"
   },
   "repository": {
     "type": "git",
