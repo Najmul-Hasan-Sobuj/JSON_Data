@@ -1,5 +1,6 @@
 {
-    "producs": [{
+    "products": [
+        {
             "id": 1,
             "name": "Apple MacBook Air",
             "image": "https://www.startech.com.bd/image/cache/catalog/laptop/apple/macbook-pro-16-inch/macbook-pro-16-inch-01-500x500.jpg",
@@ -25,10 +26,10 @@
                 "Processor": "Apple M1 Pro Chip",
                 "Display": "16.2-inch (diagonal) Liquid Retina XDR display;1 3456-by-2234 native resolution at 254 pixels per inch Up to 1000 nits sustained(full-screen) brightness, 1600 nits peak brightness 1,000,000:1 contrast ratio 1 billion colors Wide color (P3) True Tone technology",
                 "Memory": "16GB RAM",
-                "Storage": "1TB",
+                "Storage": "1TB SSD",
                 "Graphics": "16-core GPU",
                 "Operating System": "macOS",
-                "Battery": "100-watt-hour lithium-polymer battery USB - C to MagSafe 3 Cable ",
+                "Battery": "100-watt-hour lithium-polymer battery USB - C to MagSafe 3 Cable",
                 "Adapter": "140W USB-C Power Adapter"
             },
             "Description": "Apple MacBook Pro 16-Inch M1 Pro Chip, 16GB RAM, 1TB SSD (MK193) Space Gray 2021",
@@ -37,21 +38,147 @@
         },
         {
             "id": 3,
-            "name": "",
+            "name": "Dell XPS 13",
+            "image": "https://www.startech.com.bd/image/cache/catalog/laptop/dell/xps-13/xps-13-500x500.jpg",
             "Key Features": {
-                "Processor": "",
-                "Display": "",
-                "Memory": "",
-                "Storage": "",
-                "Graphics": "",
-                "Operating System": "",
-                "Battery": "",
-                "Adapter": ""
+                "Processor": "11th Gen Intel Core i7",
+                "Display": "13.4-inch FHD+ (1920 x 1200) InfinityEdge Touch Display",
+                "Memory": "16GB LPDDR4x RAM",
+                "Storage": "512GB SSD",
+                "Graphics": "Intel Iris Xe Graphics",
+                "Operating System": "Windows 10",
+                "Battery": "52Whr battery",
+                "Adapter": "45W USB-C power adapter"
             },
-            "Description": "",
-            "Price": "",
-            "Regular Price": ""
+            "Description": "Dell XPS 13 9310 Touchscreen Laptop, 11th Gen Intel Core i7, 16GB RAM, 512GB SSD",
+            "Price": "150,000৳",
+            "Regular Price": "160,000৳"
+        },
+        {
+            "id": 4,
+            "name": "HP Spectre x360",
+            "image": "https://www.startech.com.bd/image/cache/catalog/laptop/hp/spectre-x360/spectre-x360-500x500.jpg",
+            "Key Features": {
+                "Processor": "11th Gen Intel Core i7",
+                "Display": "13.3-inch FHD IPS touchscreen",
+                "Memory": "16GB DDR4 RAM",
+                "Storage": "1TB SSD",
+                "Graphics": "Intel Iris Xe Graphics",
+                "Operating System": "Windows 10",
+                "Battery": "60Whr battery",
+                "Adapter": "65W USB-C power adapter"
+            },
+            "Description": "HP Spectre x360 13-aw2002tu Convertible Laptop, 11th Gen Intel Core i7, 16GB RAM, 1TB SSD",
+            "Price": "180,000৳",
+            "Regular Price": "190,000৳"
+        },
+        {
+            "id": 5,
+            "name": "Asus ZenBook 14",
+            "image": "https://www.startech.com.bd/image/cache/catalog/laptop/asus/zenbook-14/zenbook-14-500x500.jpg",
+            "Key Features": {
+                "Processor": "AMD Ryzen 7 5800H",
+                "Display": "14-inch FHD (1920 x 1080) NanoEdge display",
+                "Memory": "16GB RAM",
+                "Storage": "1TB SSD",
+                "Graphics": "NVIDIA GeForce MX450",
+                "Operating System": "Windows 10",
+                "Battery": "67Whr battery",
+                "Adapter": "65W power adapter"
+            },
+            "Description": "Asus ZenBook 14 UM425QA Laptop, AMD Ryzen 7 5800H, 16GB RAM, 1TB SSD, NVIDIA GeForce MX450",
+            "Price": "140,000৳",
+            "Regular Price": "150,000৳"
+        },
+        {
+            "id": 6,
+            "name": "Lenovo ThinkPad X1 Carbon",
+            "image": "https://www.startech.com.bd/image/cache/catalog/laptop/lenovo/thinkpad-x1/thinkpad-x1-500x500.jpg",
+            "Key Features": {
+                "Processor": "10th Gen Intel Core i7",
+                "Display": "14-inch FHD IPS display",
+                "Memory": "16GB LPDDR3 RAM",
+                "Storage": "1TB SSD",
+                "Graphics": "Intel UHD Graphics",
+                "Operating System": "Windows 10 Pro",
+                "Battery": "51Whr battery",
+                "Adapter": "65W USB-C power adapter"
+            },
+            "Description": "Lenovo ThinkPad X1 Carbon Gen 8 Laptop, 10th Gen Intel Core i7, 16GB RAM, 1TB SSD",
+            "Price": "200,000৳",
+            "Regular Price": "210,000৳"
+        },
+        {
+            "id": 7,
+            "name": "Microsoft Surface Laptop 4",
+            "image": "https://www.startech.com.bd/image/cache/catalog/laptop/microsoft/surface-laptop-4/surface-laptop-4-500x500.jpg",
+            "Key Features": {
+                "Processor": "AMD Ryzen 7 4980U",
+                "Display": "13.5-inch PixelSense touchscreen display",
+                "Memory": "16GB LPDDR4x RAM",
+                "Storage": "512GB SSD",
+                "Graphics": "Radeon Graphics",
+                "Operating System": "Windows 10 Home",
+                "Battery": "Up to 19 hours of battery life",
+                "Adapter": "65W power adapter"
+            },
+            "Description": "Microsoft Surface Laptop 4, AMD Ryzen 7 4980U, 16GB RAM, 512GB SSD",
+            "Price": "170,000৳",
+            "Regular Price": "180,000৳"
+        },
+        {
+            "id": 8,
+            "name": "Acer Swift 3",
+            "image": "https://www.startech.com.bd/image/cache/catalog/laptop/acer/swift-3/swift-3-500x500.jpg",
+            "Key Features": {
+                "Processor": "AMD Ryzen 5 4500U",
+                "Display": "14-inch FHD IPS display",
+                "Memory": "8GB DDR4 RAM",
+                "Storage": "512GB SSD",
+                "Graphics": "AMD Radeon Graphics",
+                "Operating System": "Windows 10 Home",
+                "Battery": "48Whr battery",
+                "Adapter": "65W power adapter"
+            },
+            "Description": "Acer Swift 3 SF314-42 Laptop, AMD Ryzen 5 4500U, 8GB RAM, 512GB SSD",
+            "Price": "80,000৳",
+            "Regular Price": "85,000৳"
+        },
+        {
+            "id": 9,
+            "name": "Razer Blade 15",
+            "image": "https://www.startech.com.bd/image/cache/catalog/laptop/razer/blade-15/blade-15-500x500.jpg",
+            "Key Features": {
+                "Processor": "10th Gen Intel Core i7",
+                "Display": "15.6-inch FHD 144Hz display",
+                "Memory": "16GB DDR4 RAM",
+                "Storage": "512GB SSD",
+                "Graphics": "NVIDIA GeForce GTX 1660 Ti",
+                "Operating System": "Windows 10 Home",
+                "Battery": "65Whr battery",
+                "Adapter": "150W power adapter"
+            },
+            "Description": "Razer Blade 15 Base Model Gaming Laptop, 10th Gen Intel Core i7, 16GB RAM, 512GB SSD, NVIDIA GeForce GTX 1660 Ti",
+            "Price": "250,000৳",
+            "Regular Price": "260,000৳"
+        },
+        {
+            "id": 10,
+            "name": "LG Gram 17",
+            "image": "https://www.startech.com.bd/image/cache/catalog/laptop/lg/gram-17/gram-17-500x500.jpg",
+            "Key Features": {
+                "Processor": "11th Gen Intel Core i7",
+                "Display": "17-inch WQXGA (2560 x 1600) IPS display",
+                "Memory": "16GB LPDDR4x RAM",
+                "Storage": "1TB SSD",
+                "Graphics": "Intel Iris Xe Graphics",
+                "Operating System": "Windows 10 Home",
+                "Battery": "80Whr battery",
+                "Adapter": "65W USB-C power adapter"
+            },
+            "Description": "LG Gram 17Z90P Laptop, 11th Gen Intel Core i7, 16GB RAM, 1TB SSD",
+            "Price": "220,000৳",
+            "Regular Price": "230,000৳"
         }
-
     ]
 }
